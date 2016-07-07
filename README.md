@@ -1,1 +1,2 @@
 # ElectronImageViewer
+Electron製の画像ビューアを習作
